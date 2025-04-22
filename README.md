@@ -44,7 +44,7 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: shahnawazansari.dev@gmail.com
+- 📧 Email: aryangymnast8168@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahnawaz-ansari-8386a01b1)
 
 ---
