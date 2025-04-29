@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shahnawaz Ansari
 
-🚀 A passionate **Full Stack Developer** from India nearly four years of experience in building scalable web applications using Django, Laravel, and React.js.
+🚀 A passionate **Full Stack Developer** from India with nearly four years of experience in building scalable web applications using Django, Laravel, and React.js.
 
 ---
 
